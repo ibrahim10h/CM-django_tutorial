@@ -1,0 +1,2 @@
+CM-django_tutorial
+==================
